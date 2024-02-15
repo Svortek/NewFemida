@@ -1,0 +1,4 @@
+Здесь все дополнительные библиотеки для работы:
+pip install pyaudio
+pip install gTTS
+pip install 
