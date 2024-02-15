@@ -12,13 +12,10 @@ GOOGLE_CSE_ID = "524bce8e2c3f4467f"
 language_codes = {
     "английский": "en",
     "немецкий": "de",
-    # Добавьте другие языки и их коды по необходимости
 }
 
 def clean_snippet(snippet):
-    # Удаление ненужных символов и слов
     snippet = re.sub(r"Sep \d+, \d+|Ответы\d*|/", "", snippet)
-    # Удаление лишних пробелов
     snippet = re.sub(r"\s+", " ", snippet).strip()
     return snippet
 
