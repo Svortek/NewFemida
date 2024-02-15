@@ -1,4 +1,6 @@
-Здесь все дополнительные библиотеки для работы:
+Библиотеки для работы:
 pip install pyaudio
 pip install gTTS
-pip install 
+pip install requests
+pip install speechrecognition
+pip install googletrans
