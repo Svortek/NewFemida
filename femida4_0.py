@@ -6,8 +6,8 @@ import os
 import re
 
 # Замените на ваш API ключ и Search Engine ID от Google Custom Search
-GOOGLE_API_KEY = "AIzaSyD0jmbDgJpbmPPL8FK3qJFgaXJN4S-Ti4U"
-GOOGLE_CSE_ID = "524bce8e2c3f4467f"
+GOOGLE_API_KEY = ""
+GOOGLE_CSE_ID = ""
 
 language_codes = {
     "английский": "en",
