@@ -4,3 +4,4 @@ pip install gTTS
 pip install requests
 pip install speechrecognition
 pip install googletrans
+pip install mistralai
